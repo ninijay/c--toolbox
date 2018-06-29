@@ -10,6 +10,7 @@ namespace download_cleaner
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
